@@ -1,0 +1,38 @@
+/* styles.css */
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-sizing: border-box;
+    background-color:#0c1629;
+     color: whitesmoke;
+     margin: 0 8em;
+}
+
+.blocks {
+     text-align: center;
+     margin: 20 auto;
+}
+
+h1 { 
+    margin-top: 0 4em;
+}
+
+p {
+    font-size: 16px;
+    background-color: rgb(41, 55, 69);
+    padding: .5rem;
+    margin-top: .5rem;
+    border-radius: .5rem;
+}
+
+ul {
+    display: inline;
+    list-style-type: none;
+    margin: 4em;
+}
+
+li {
+    font-weight: bold;
+    padding: .25em;
+    margin
+}
